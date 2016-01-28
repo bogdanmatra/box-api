@@ -1,0 +1,12 @@
+{
+  "name": "boxapi",
+  "version": "1.0.0",
+  "description": "Send and Store Test",
+  "main": "server.js",
+  "author": "Bogdan Matragociu",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "csvtojson": "^0.3.21",
+    "express": "^4.13.0"
+  }
+}
